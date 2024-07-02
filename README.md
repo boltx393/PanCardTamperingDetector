@@ -16,7 +16,7 @@ A PAN card tampering detector built using Python with a deployable website using
 
 1. **Clone the Repository**
    ```bash
-   git clone [<repository-url>](https://github.com/boltx393/PanCardTamperingDetector)
+   git clone https://github.com/boltx393/PanCardTamperingDetector
    ```
 
 2. **Navigate to Project Directory**
